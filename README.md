@@ -1,5 +1,5 @@
 # Challenge-dio-github
-Git/GitHub project challenge
+Repository created for project challenge.
 
 ## Useful Links
 [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
